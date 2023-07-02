@@ -26,8 +26,8 @@ body {
     background-color: hsl(0, 0%, 100%);
     padding: 1rem;
     border-radius: 1.25rem;
-    max-width: 20rem;
-    margin: auto;
+    width: 20rem;
+    box-shadow: 0 24px 24px rgba(0,0,0,0.05);
 }
 
 .card-image {
